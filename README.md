@@ -43,7 +43,7 @@ git clone https://github.com/NehaamKhan/Text-Encryption-Decryption-Tool.git
 ### Step 3: Navigate to the Project Directory
 
 ```bash
-cd text-encryption-tool
+cd Text-Encryption-Decryption-Tool
 ```
 
 ## Usage
