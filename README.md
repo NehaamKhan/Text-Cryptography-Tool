@@ -37,13 +37,13 @@ pip install pycryptodome
 ### Step 2: Download or Clone the Repository
 
 ```bash
-git clone https://github.com/NehaamKhan/Text-Encryption-Decryption-Tool.git
+git clone https://github.com/NehaamKhan/Text-Cryptography-Tool.git
 ```
 
 ### Step 3: Navigate to the Project Directory
 
 ```bash
-cd Text-Encryption-Decryption-Tool
+cd Text-Cryptography-Tool
 ```
 
 ## Usage
