@@ -98,4 +98,4 @@ Select option `3` to safely exit the program.
 
 ## License
 
-This project is licensed under the [MIT License](License).
+This project is licensed under the [MIT License](LICENSE).
